@@ -1,8 +1,8 @@
 package main
 
 import (
-	. "../../common"
 	"errors"
+	. "github.com/warmuuh/gofuture"
 	"log"
 	"time"
 )
