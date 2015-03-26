@@ -1,3 +1,3 @@
-package common
+package gofuture
 
 type Service func(Req) Future

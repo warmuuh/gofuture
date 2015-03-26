@@ -1,4 +1,4 @@
-package common
+package gofuture
 
 type Filter func(Req, Service) Future
 

@@ -1,4 +1,4 @@
-package common
+package gofuture
 
 type Req interface{}
 type Res interface{}
